@@ -7,6 +7,6 @@ Here is my game: Platformer. This my first coded game, so enjoy!
 3. If you managed to collide with a blob or fall into a lava pit, there will be a gameover screen and restart button that - once pressed - allows you to redo the level.
 
 # Keys:
-Spacebar = Player jumps
-Right key = Player moves right
-Left key = Player moves left
+Spacebar = Player jumps,
+Right key = Player moves right,
+Left key = Player moves left,
